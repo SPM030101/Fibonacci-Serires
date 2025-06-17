@@ -12,7 +12,7 @@ public class Fibonacci {
     }
 
     public static void main(String[] args) {
-        int n = 10; // Hardcoded number of terms
+        int n = 20; // Hardcoded number of terms
         generateFibonacci(n);
     }
 }
